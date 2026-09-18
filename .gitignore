@@ -45,3 +45,6 @@ DB/server-cert.pem
 DB/server-key.pem
 DB/undo_001
 DB/undo_002
+DB/binlog.000026
+DB/binlog.000027
+DB/binlog.000028
