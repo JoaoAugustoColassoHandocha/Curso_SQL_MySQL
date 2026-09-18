@@ -10,7 +10,7 @@ services:
       - --character-set-server=utf8mb4
       - --collation-server=utf8mb4_unicode_ci
     volumes:
-      - ~/.MySQLDBData/mysqlonly/mysql_cursos:/var/lib/mysql
+      - /workspaces/SQL-Completo/DB:/var/lib/mysql
     ports:
       - 9003:9003
     environment:
