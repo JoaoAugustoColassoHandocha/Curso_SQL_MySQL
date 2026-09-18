@@ -1,0 +1,2 @@
+docker ps - mostrar se o docker está ativo
+docker-compose -d - executa o docker
