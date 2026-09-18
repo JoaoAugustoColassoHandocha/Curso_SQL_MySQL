@@ -1,2 +1,3 @@
 docker ps - mostrar se o docker está ativo
 docker-compose -d - executa o docker
+docker stop 'Os 3 primeiros caracteres do ports'
