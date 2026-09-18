@@ -1,1 +1,1 @@
-# SQL-Completo
+# Curso_SQL_MySQL
