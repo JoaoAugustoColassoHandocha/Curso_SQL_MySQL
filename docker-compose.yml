@@ -13,7 +13,7 @@ services:
     volumes:
       - /workspaces/SQL-Completo/DB:/var/lib/mysql
     ports:
-      - 9003:9003
+      - 3306:3306
     environment:
       MYSQL_ROOT_PASSWORD: senha
       MYSQL_DATABASE: base_de_dados
