@@ -11,7 +11,7 @@ services:
       - --collation-server=utf8mb4_unicode_ci
       - --innodb_force_recovery=0
     volumes:
-      - C:\Users\sd.joao.handocha\OneDrive - Ministério Público do Trabalho\Documentos\Curso_SQL_MySQL:/var/lib/mysql
+      - C:\Users\sd.joao.handocha\OneDrive - Ministério Público do Trabalho\Documentos\Codigos_Aulas_Curso_de_Python_3_do_basico_ao_avancado\DB:/var/lib/mysql
     ports:
       - 3306:3306
     environment:
